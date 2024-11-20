@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Hi there 👋</h1>
+I'm a passionate developer who thrives on creating both frontend and backend solutions, currently focusing on frontend development. My goal is to continually enhance my skills and stay updated with latest technologies. I enjoy tackling challenges and turning ideas into functional and efficient applications.
 
-<!--
-**mrcn49/mrcn49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1>⚒️ What I'm Familiar With ⚒️</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=spring,react,nodejs,java,javascript,scss,css,html" alt="Technologies I use" /> <br><br>
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongo,github,git,postman,docker,vscode,idea,webstorm,windows,linux,apple" alt="Tools I work with" /> <br>
+</div>
+
+
+<h1>📊 GitHub Stats</h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrcn49&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcn49&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
